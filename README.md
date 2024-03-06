@@ -1,6 +1,6 @@
 #ACTIVE DIRECTORY
-# Building a SOC + Honeynet in Azure (Live Traffic)
-![Cloud Honeynet / SOC](https://i.imgur.com/T9j9NDD.png)
+# Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell
+![How to Setup a Basic Home Lab](https://i.imgur.com/LNo5Wwz.jpeg)
 
 ## Introduction
 
